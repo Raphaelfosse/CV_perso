@@ -1,0 +1,25 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  margin: 30px;
+  border: 1px solid #dbd8cf;
+  background: linear-gradient(left, #eee  0%, #fff 10%);
+  background: -ms-linear-gradient(left, #eee  0%,#fff 10%);
+  background: -moz-linear-gradient(left, #eee  0%,#fff 10%);
+  background: -webkit-linear-gradient(left, #eee  0%, #fff 10%);
+  box-shadow: -44px 120px 80px -72px #fff inset, -44px -120px 80px -72px #fff inset;
+}
+
+.box {
+  border: 1px solid #dbd8cf;
+  margin: 10px;
+  padding: 0 10px;
+}
+
+.icon_mini {
+  width: 30px;
+  height: 30px;
+}
+
+
